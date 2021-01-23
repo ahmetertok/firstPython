@@ -1,0 +1,5 @@
+file = open("ders_programi.txt",'w')
+print("Dosya açıldı")
+file.write("Python Programlama-1: 3 Modül 1,5 Saat")
+print("Veri yazıldı")
+file.close()
